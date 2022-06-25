@@ -3,6 +3,10 @@
 This repository consists of implementation of Holoviz along with Flask, and there are jupyter notebooks available demonstrating examples of "Analytics and Visualization".
 
 ----
+#### Charts to Select from
+![](https://github.com/cryptf0x/interactive_holoviz_flask/blob/2581437fa72b9a9f42e9dfd9855198c14481898c/Pie%20Charts.png)
+
+----
 
 ### References
 
